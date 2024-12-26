@@ -19,3 +19,5 @@ A sample github repo used for integrating personal jira account and creating wor
 ![image](https://github.com/user-attachments/assets/6fe3b6d9-b29a-4164-8d3c-dd2bbcd9400c)
 
 ![image](https://github.com/user-attachments/assets/abaa5c70-7862-498d-8863-bfc88b3cd1af)
+
+![image](https://github.com/user-attachments/assets/b6f2fb69-91b3-4d64-ad81-509cf805a5c6)
