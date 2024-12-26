@@ -3,10 +3,11 @@ A sample github repo used for integrating personal jira account and creating wor
 
 
 # Key things to Note:
-1.Add the Github app in Jira under Apps->Explore More apps.
-2.Once added, give Jira access to the target Github account and repositories for Jira to manage on our behalf.
-3.Once the repos are connected, We can create a new branch directly from Jira.
-4.When working on a new file related to a Jira issue, first create a branch based on the Jira Issue ID(Eg. <Jira-Issue-ID>-<Issue-Description>) and then committing a new file, include the Jira Issue Id in the commit message for Jira to track.(Eg. git commit -m "<Jira-Issue-ID> <message>").
+1.Add the Github app in Jira under Apps->Explore More apps.\
+2.Once added, give Jira access to the target Github account and repositories for Jira to manage on our behalf.\
+3.Once the repos are connected, We can create a new branch directly from Jira.\
+4.When working on a new file related to a Jira issue, first create a branch based on the Jira Issue ID(Eg. <Jira-Issue-ID>-<Issue-Description>) and then committing a new file, include the Jira Issue Id in the commit message for Jira to track.(Eg. `git commit -m "<Jira-Issue-ID> <message>"`).\
+5.To integrate deployements into Jira, follow the same steps as above. Create a github actions workflow and use include the  Issue ID in commit message to enable Jira tracking.
 
 # Sample Snapshots:
 ![image](https://github.com/user-attachments/assets/851a6776-3f24-418a-9eb9-f6bfd5addcb5)
