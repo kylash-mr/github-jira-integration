@@ -8,6 +8,7 @@ A sample github repo used for integrating personal jira account and creating wor
 3.Once the repos are connected, We can create a new branch directly from Jira.
 4.When working on a new file related to a Jira issue, first create a branch based on the Jira Issue ID(Eg. <Jira-Issue-ID>-<Issue-Description>) and then committing a new file, include the Jira Issue Id in the commit message for Jira to track.(Eg. git commit -m "<Jira-Issue-ID> <message>").
 
+
 # Sample Snapshots:
 ![image](https://github.com/user-attachments/assets/851a6776-3f24-418a-9eb9-f6bfd5addcb5)
 
