@@ -1,5 +1,6 @@
 # github-jira-integration
-A sample github repo used for integrating personal jira account and creating workflows
+A sample github repo used for integrating personal jira account and creating workflows.
+This repo is integrated with Jira at : https://kylash-mr.atlassian.net/
 
 
 # Key things to Note:
